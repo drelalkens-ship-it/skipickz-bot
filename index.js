@@ -1,4 +1,3 @@
-// index.js
 const TelegramBot = require("node-telegram-bot-api");
 
 // IMPORTANT: Your real bot token will be added in Render, not here.
